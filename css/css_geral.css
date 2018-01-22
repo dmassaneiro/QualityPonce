@@ -1,0 +1,12 @@
+#a_modific{
+    color: black;
+}
+body{
+    background-color: #CCD1D9   
+}
+input {
+  text-transform: uppercase;
+}
+#selecionado{
+    background-color: #eee;
+}
